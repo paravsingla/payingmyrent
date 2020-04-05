@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Happy Birthday"
+title:  "Entry #1 - Happy Birthday"
 author: "Parav"
 comments: false
 ---
