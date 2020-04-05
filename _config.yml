@@ -1,8 +1,7 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/payingmyrent"
-url:            "https://paravsingla.com"
+url:            "http://payingmyrent.com"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
