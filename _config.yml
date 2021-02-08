@@ -8,9 +8,8 @@ google_analytics: UA-157021582-3
 
 # Author
 author:
-  name:         Parav Singla
-  url:          https://paravsingla.com
-  email:        hello@paravsingla.com
+  name:         Anon
+  url:          https://#
 
 # Build settings
 markdown:       kramdown
