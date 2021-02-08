@@ -9,6 +9,4 @@ On Feb 8th, 2020, which was my 24th Birthday, I realized how bad my life was. I 
 
 I started this blog on Apr 5th, 2020, but the posts have the dates on which I wrote them in my journal. I'll keep only the relevant portions of my journal entries here.
 
-I hope I inspire you to embark on a similar journey towards actualizing a life that you desire.
-
-Feel free to reach out to me. You can mail me at hello@paravsingla.com
+I write this blog mostly so I can see my progress but if you're reading this, I hope I inspire you to take action.
